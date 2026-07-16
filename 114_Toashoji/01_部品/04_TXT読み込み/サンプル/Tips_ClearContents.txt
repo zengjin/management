@@ -1,0 +1,3 @@
+
+    ' 2行目から内容をクリア
+    Rows("2:" & Rows.Count).ClearContents
