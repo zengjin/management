@@ -1,0 +1,10 @@
+http://zudajijp.zouri.jp/km/
+
+
+https://excel-databace.hatenablog.com/entry/64bit-vba-error
+
+#If VBA7 And Win64 Then
+  '64bit”Å Private Declare PtrSafe Function GetWindowRect Lib "user32" (ByVal hWnd As LongPtr, lpRect As RECT) As Long
+#Else
+  '32bit”Å Private Declare Function GetWindowRect Lib "user32" (ByVal hWnd As Long, lpRect As RECT) As Long
+#End If 
