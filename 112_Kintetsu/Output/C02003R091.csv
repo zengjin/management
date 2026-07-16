@@ -1,0 +1,8 @@
+<start>
+VrSetForm=C02003R091.xml, 5
+VrSetTray = 0
+<end>
+"haifu_hyoji_key","shtsryk_junjo","tsusu","skyusaki_oyano","skyusaki_edano","skyusaki_nm_1","skyusaki_nm_2","ryoukin_title","kaisu_from","kaisu_to","sharai_mongon1","sharai_mongon2","sharai_mongon3","sharai_mongon4","sharai_mongon5","ls_amt_title","hoshu_amt_title","hoshu_amt_szei_title","ls_amt","ls_amt_szei","hoshu_amt","hoshu_amt_szei","sharai_amt","sharai_amt_szei","kanri_no","draft_image_file"
+"配布用表示キー","出力順序","通数","請求先親番","請求先枝番","請求先１","請求先２","料金タイトル","回数FROM","回数TO","支払文言１","支払文言２","支払文言３","支払文言４","支払文言５","リース料タイトル","保守料タイトル","保守料消費税タイトル","リース料","リース料消費税額等","保守料","保守料消費税額等","お支払金額","お支払金額消費税額等","管理番号","ドラフトイメージファイル"
+"VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVZ","59","59","CCCCCCCZ","CCCZ","CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCZ","CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCZ","VVVVVZ","559","559","VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVZ","VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVZ","VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVZ","VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVZ","VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVZ","CCCCCCCZ","CCCCCCCCCZ","CCCCCCCCZ","55555555555555559","55555555555559","55555555555555559","55555555555559","55555555555555559","55555555555559","VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVZ","CCCCCCCCCCCZ"
+
